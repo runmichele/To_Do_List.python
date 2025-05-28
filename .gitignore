@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+
+# Dados dinâmicos
+tasks.json
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Config do editor
+.vscode/
